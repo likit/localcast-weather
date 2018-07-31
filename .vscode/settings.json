@@ -1,0 +1,18 @@
+{
+  "editor.tabSize": 2,
+  "editor.rulers": [90, 140],
+  "editor.formatOnType": true,
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": true
+  },
+  "npm.enableScriptExplorer": true,
+  "files.trimTrailingWhitespace": true,
+  "auto-close-tag.SublimeText3Mode": true,
+  "html.autoClosingTags": false,
+  "prettier.printWidth": 90,
+  "prettier.semi": false,
+  "prettier.singleQuote": true,
+  "prettier.trailingComma": "es5"
+}
